@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# A program that prints the number of and the list of its arguements.
 if __name__ == "__main__":
     import sys
 
