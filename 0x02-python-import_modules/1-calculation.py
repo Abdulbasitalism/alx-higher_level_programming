@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# a program that imports functions from the file calculator_1.py, does some Maths, and prints the result
+# a program that imports functions from the file
 if __name__ == "__main__":
     from calculator_1 import add, sub, mul, div
     a = 10
