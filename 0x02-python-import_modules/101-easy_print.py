@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import python_for_me
+#  a program that prints pythoniscool, followed by a new li
+__import__('sys').stdout.write("#pythoniscool\n")
